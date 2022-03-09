@@ -1,0 +1,94 @@
+body {
+    overflow-x: hidden;
+}
+
+img:hover {
+    transform: scale(1.01);
+}
+
+.space {
+    padding-left: 4px;
+    padding-right: 4px;
+}
+
+.navbar .container-fluid {
+    justify-content: center;
+}
+
+.navbar.colour {
+    background-color: #b953619d;
+    /* #b953619d */
+}
+
+#bgimg {
+    background-image: url('images/bg1.jpg');
+    height: 400px;
+    background-size: cover;
+}
+
+.container-fluid {
+    padding: 0;
+}
+
+div#namee {
+    text-align: left;
+    /* padding-left: 10px; */
+    font-size: medium;
+    padding-top: 0;
+    font-weight: bold;
+    display: block;
+    padding-bottom: 0;
+}
+
+div#usrnm {
+    text-align: left;
+    padding-top: 0;
+    /* padding-left: 10px; */
+    font-size: medium;
+    color: black;
+}
+
+span#details {
+    text-align: left;
+    /* margin: auto; */
+    display: block;
+    padding-top: 5px;
+    padding-left: 10px;
+    font-size: large;
+    font-weight: 600;
+    width: 473px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    padding-bottom: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+div#dimensions {
+    text-align: right;
+    color: grey;
+    font-size: smaller;
+    /* padding-top: 5px; */
+    padding-right: 10px;
+    padding-top: 5px;
+    display: block;
+}
+
+#create {
+    padding-top: 5px;
+    font-size: small;
+}
+
+#userprofile {
+    padding-left: 10px;
+    padding-top: 8px;
+    /* border-radius: 50%; */
+}
+
+#upld {
+    padding-top: 5px;
+}
+
+.animate__animated.animate__zoomIn {
+    --animate-duration: 0.9s;
+}
