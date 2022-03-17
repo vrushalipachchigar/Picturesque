@@ -16,7 +16,7 @@ It also has a feature for infinite scroll when user searches something for bette
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></p>
   
-### Steps to get Unsplash API key:
+## Steps to get Unsplash API key:
 
 1. Go to https://unsplash.com/developers
 2. Log-in if you already have an account else register as a developer.
