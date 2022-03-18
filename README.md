@@ -9,6 +9,8 @@ I made an image generator website using HTML, CSS, Javascript and Unsplash API.
 It first takes an access key from user that you can find on Unsplash and then gives the results accordingly.
 It also has a feature for infinite scroll when user searches something for better UX.
 
+You can also view the image in modal by clicking on it and download the same image by clicking on "download" button in modal.
+
 ## Tools and Technologies:
 
 <p>
